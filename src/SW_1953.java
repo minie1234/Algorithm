@@ -2,8 +2,8 @@ import java.util.*;
 
 /**
  * 
- * @author Ming 1953. 
- * [모의 SW 역량테스트] 탈주범 검거 
+ * @author Ming  
+ * 1953.[모의 SW 역량테스트] 탈주범 검거 
  * 2018.01.24 18:20 ~ 20:40 1h 20s
  */
 class Pair {
