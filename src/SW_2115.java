@@ -73,14 +73,6 @@ public class SW_2115 {
 
 	}
 
-	private static void init() {
-		for (int i = 0; i < n; i++) {
-			for (int j = 0; j < n; j++) {
-				visit[i][j] = false;
-			}
-		}
-	}
-
 	private static void confirm() {
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < n; j++) {
